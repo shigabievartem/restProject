@@ -51,6 +51,13 @@
             <version>${modelMapper.version}</version>
         </dependency>
 
+        <!-- Security -->
+        <dependency>
+            <groupId>backbone</groupId>
+            <artifactId>backbone-security</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
     </dependencies>
 
     

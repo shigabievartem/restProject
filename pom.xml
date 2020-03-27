@@ -22,6 +22,7 @@
         <module>backbone-core</module>
         <module>backbone-eureka-server</module>
         <module>backbone-dto</module>
+        <module>backbone-security</module>
     </modules>
 
     <properties>
@@ -37,6 +38,8 @@
         <lombok.version>1.18.8</lombok.version>
         <mockito.version>2.4.2</mockito.version>
         <modelMapper.version>2.3.5</modelMapper.version>
+
+        <jwt.version>0.9.0</jwt.version>
     </properties>
 
     <dependencies>
