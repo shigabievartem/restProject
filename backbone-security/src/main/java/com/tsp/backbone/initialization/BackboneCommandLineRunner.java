@@ -11,7 +11,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class EmojicCommandLineRunner implements CommandLineRunner {
+public class BackboneCommandLineRunner implements CommandLineRunner {
 
     private RoleRepository roleRepository;
     private UserRepository userRepository;
