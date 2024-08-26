@@ -33,7 +33,7 @@
         <spring.eureka.version>2.2.1.RELEASE</spring.eureka.version>
         <spring.thymeleaf.version>2.2.4.RELEASE</spring.thymeleaf.version>
 
-        <swagger.version>2.4.0</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <guava.version>23.0</guava.version>
         <lombok.version>1.18.8</lombok.version>
         <mockito.version>2.4.2</mockito.version>
